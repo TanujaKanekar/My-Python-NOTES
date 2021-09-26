@@ -1,6 +1,7 @@
 # My-Python-NOTES
 
-I have collected this python notes from https://www.programiz.com/python-programming/first-program 
-and written in my jupyter notebook for my reference.To brush my python skills as and when required.
+Hey Everyone,
 
-Hope this might help others too.
+I have collected this python notes from https://www.programiz.com/python-programming/first-program 
+and made a notes of it in my jupyter notebook for my reference to study.
+Hoping this might help others too.
